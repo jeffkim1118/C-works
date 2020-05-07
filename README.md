@@ -1,3 +1,3 @@
 # C-works
 
-Here are some of C++ programs that I created.
+This program counts the number of names from the names.txt that has 'K'.
